@@ -1,24 +1,23 @@
 #EXTM3U
-#EXTINF:0,
-beIN Sports 1 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/22.m3u8
-beIN Sports 2 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/23.m3u8
-beIN Sports 3 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/24.m3u8
-beIN Sports 4 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/25.m3u8
-beIN Sports 5 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/26.m3u8
-beIN Sports 6 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/27.m3u8
-beIN Sports 7 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/28.m3u8
-beIN Sports 8 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/29.m3u8
-beIN Sports 9 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/30.m3u8
-beIN Sports 10 SD
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/31.m3u8
-beIN Sports NBA
-#EXTINF:0,http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/20.m3u8
+#EXTINF:0,BEIN Sports 1 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/22.m3u8
+#EXTINF:0,BEIN Sports 2 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/23.m3u8
+#EXTINF:0,BEIN Sports 3 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/24.m3u8
+#EXTINF:0,BEIN Sports 4 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/25.m3u8
+#EXTINF:0,BEIN Sports 5 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/26.m3u8
+#EXTINF:0,BEIN Sports 6 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/27.m3u8
+#EXTINF:0,BEIN Sports 7 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/28.m3u8
+#EXTINF:0,BEIN Sports 8 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/29.m3u8
+#EXTINF:0,BEIN Sports 9 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/30.m3u8
+#EXTINF:0,BEIN Sports 10 SD
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/31.m3u8
+#EXTINF:0,BEIN Sports NBA
+http://tv.lavanatv.net:30003/live/TydDQ11SfM/ka5EGOLEXp/20.m3u8
